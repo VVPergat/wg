@@ -1,7 +1,7 @@
 # Known Issues
 
 One of the goals of this working group is to improve the user experience of people using rust for game development.
-Experiment
+
 **This document tracks issues that we as a group would like to raise for the core Rust language team.** This may
 include missing functionality, or problems that impede productivity. This is not an exhaustive list, and only 
 includes language-level issues. 
